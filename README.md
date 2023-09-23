@@ -1,4 +1,2 @@
-# Title of my test repo
+# Welcome to my GitHub page
 
-## Hello world
-Hello world
